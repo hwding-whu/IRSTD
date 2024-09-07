@@ -4,7 +4,7 @@ Deep learning models based on Convolutional Neural Networks (CNNs) have been wid
 ## Overall framework flowchart
 ![Framework diagram](https://github.com/hwding-whu/ISTD/blob/master/images/Framework%20diagram.png)
 ## Datasets
-In this study, we utilized the NUDT-SIRST dataset as our primary dataset. You can download the relevant datasets here: [NUDT-SIRST](images/Framework diagram.png)
+In this study, we utilized the NUDT-SIRST dataset as our primary dataset. You can download the relevant datasets here: ![NUDT-SIRST](images/Framework diagram.png)
 ## Baseline models
 [U-Net & U-Net++:](https://github.com/qubvel/segmentation_models.pytorch)
 
