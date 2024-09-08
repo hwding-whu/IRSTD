@@ -4,7 +4,7 @@ Deep learning models based on Convolutional Neural Networks (CNNs) have been wid
 ## Overall framework flowchart
 ![Framework diagram](images/Framework-diagram.png)
 ## Datasets
-In this study, we utilized the NUDT-SIRST dataset as our primary dataset. You can download the relevant datasets here: [NUDT-SIRST]([images/Framework diagram.png](https://github.com/YeRen123455/Infrared-Small-Target-Detection))
+In this study, we utilized the NUDT-SIRST dataset as our primary dataset. You can download the relevant datasets here: [NUDT-SIRST](https://github.com/YeRen123455/Infrared-Small-Target-Detection)
 ## Baseline models
 [U-Net & U-Net++](https://github.com/qubvel/segmentation_models.pytorch)
 
